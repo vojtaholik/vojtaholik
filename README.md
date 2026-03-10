@@ -4,7 +4,7 @@
 
   ---
 
-  I design and build course platforms with [Joel Hooks](https://github.com/joelhooks). The tools we make power courses from world-class educators — used by teams at Apple, Netflix,
+  I design and build course platforms with [Joel Hooks](https://github.com/joelhooks) and the team. The tools we make power courses from world-class educators — used by teams at Apple, Netflix,
   EA, and more.
 
   |                                                     |                                                                    |

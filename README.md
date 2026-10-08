@@ -22,6 +22,8 @@
 
   | Project | What It Does |
   | ------- | ------------ |
+  | [**good-css**](https://github.com/vojtaholik/good-css) | Opinionated modern CSS techniques, packaged as an agent skill, each with a live specimen |
+  | [**smer**](https://github.com/vojtaholik/smer) | Private, local-first work memory for developers and coding agents |
   | [**course-builder**](https://github.com/badass-courses/course-builder) | Open-source course CMS — the engine behind all of the above |
   | [**dither-lab**](https://github.com/vojtaholik/dither-lab) | Interactive dithering tool — real-time previews, WebGL, SVG export |
   | [**sketchpad**](https://github.com/vojtaholik/sketchpad) | Local-first generative art tool — describe what you want, Claude writes the render code |
